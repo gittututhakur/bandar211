@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bandar211-jitu.de-rse.org/sitemap.xml
